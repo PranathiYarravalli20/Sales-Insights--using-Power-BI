@@ -13,6 +13,7 @@ Tables:
 5. Transactions
 
 ### SQL queries for data cleaning and exploration
+Data acquired is cleansed using SQL queries here.
 [click here to view code](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Data%20Cleaning%20%26%20Exploration%20using%20SQL.sql)
 
 ### Analysis using SQL
